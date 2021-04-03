@@ -18,4 +18,4 @@
 <a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="425" width="550" align="center" style="border-radius:5%"></a>
 
 ## Resume
-<a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./WAQ_Vinyl.png" height="425" width="550" align="center" style="border-radius:5%"></a>
+<a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./AJH Resume.pdf" height="425" width="550" align="center" style="border-radius:5%"></a>
