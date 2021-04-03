@@ -1,5 +1,3 @@
-
-  
 # Arthur 'A.J.' Hutchins
 ## Software Engineer - Beverly, MA
 
