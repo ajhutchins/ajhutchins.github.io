@@ -1,2 +1,6 @@
-# ajhutchins.github.io:
-is a repository for the Software Engineering Portfolio for A.J. Hutchins.
+# Arthur 'A.J.' Hutchins
+
+https://github.com/ajhutchins/ajhutchins.github.io/blob/master/Jeopardy_Screen_Shot.png
+
+## Software Engineer
+#### Beverly, MA
