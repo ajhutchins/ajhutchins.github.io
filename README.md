@@ -15,17 +15,17 @@
 ## Software Engineering Projects:
 ### JEOPARDY:
 <p align="center">
-<a href="https://github.com/ajhutchins/Jeopardy/blob/main/README.md"><img src="./Jeopardy_Screen_Shot.png" height="400" width="525" align="center" style="border-radius:5%"></a>
+<a href="https://github.com/ajhutchins/Jeopardy/blob/main/README.md"><img src="./Jeopardy_Screen_Shot.png" height="auto" width="525" align="center" style="border-radius:5%"></a>
 </p>
 
 ### North Shore Beer Explorer:
 <p align="center">
-<a href="https://thawing-spire-75376.herokuapp.com/beer_explorer"><img src="./NS_Beer_Explorer.png" height="400" width="550" align="center" style="border-radius:5%"></a>
+<a href="https://thawing-spire-75376.herokuapp.com/beer_explorer"><img src="./NS_Beer_Explorer.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
 </p>
 
 ### WAQ Vinyl:
 <p align="center">
-<a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="400" width="550" align="center" style="border-radius:5%"></a>
+<a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
 </p>
 
 ## Resume
