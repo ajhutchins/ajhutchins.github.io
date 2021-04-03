@@ -9,7 +9,7 @@
 
 <a href="https://github.com/ajhutchins"><img src="./github.png" height="50" width="auto" style="border-radius:15%"></a>
 <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./linkedin.png" height="50" width="auto" style="border-radius:15%"></a>
-<a href=""><img src="./gmail.png" height="50" width="auto" style="border-radius:15%"></a>
+<a href=""><img src="./gmail.jpeg" height="50" width="auto" style="border-radius:15%"></a>
 
 ## Software Engineering Projects:
 ### JEOPARDY:
