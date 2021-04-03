@@ -30,6 +30,6 @@
 
 ## Resume
 <p align="center">
-<img src="./clickme.png" height="150" width="auto" style="border-radius:15%"></a>
+<img src="./clickme.png" height="150" width="auto"">
 <a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./Gerald.gif" height="225" width="350" align="center" style="border-radius:5%"></a>
 </p>
