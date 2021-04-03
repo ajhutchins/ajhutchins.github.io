@@ -1,6 +1,6 @@
 # Arthur 'A.J.' Hutchins
 
-<a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./AJ_Headshot.jpg"></a>
+<a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./AJ_Headshot.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 ## Software Engineer
 #### Beverly, MA
