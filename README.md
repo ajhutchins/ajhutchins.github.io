@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./AJ_Headshot.jpg" height="auto" width="200" style="border-radius:15%"></a>
 </p>
 
-### Bio: I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
+## Bio:
+###I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
 
 ## [Personal GitHub (Click me!)](https://github.com/ajhutchins)
 
