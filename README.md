@@ -7,6 +7,7 @@
 
 
 ## Projects:
-1. JEOPARDY: <img src="./Jeopardy_Screen_Shot.png">
-3. North Shore Beer Explorer: <img src="./NS_Beer_Explorer.png">
-4. WAQ Vinyl: <img src="./WAQ_Vinyl.png">
+1. JEOPARDY: <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"<img src="./Jeopardy_Screen_Shot.png" height="auto" width="auto" style="border-radius:15%"></a>
+2. North Shore Beer Explorer: <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"<img src="./NS_Beer_Explorer.png" height="auto" width="auto" style="border-radius:15%"></a>
+3. WAQ Vinyl: <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"<img src="./WAQ_Vinyl.png" height="auto" width="auto" style="border-radius:15%"></a>
+4. 
