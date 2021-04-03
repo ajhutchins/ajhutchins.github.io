@@ -1,7 +1,7 @@
 # Arthur 'A.J.' Hutchins - Beverly, MA
 ## Full-Stack Software Engineer
 
-<p align="center">
+<p display="block">
 <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./AJ_Headshot.jpg" height="auto" width="200" style="border-radius:15%"></a>
   <p flex="column">
   <a href="https://github.com/ajhutchins"><img src="./github.png" height="50" width="auto" style="border-radius:15%"></a>
