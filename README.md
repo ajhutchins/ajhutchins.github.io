@@ -1,3 +1,5 @@
+<div style="text-align:center">
+
 # Arthur 'A.J.' Hutchins
 ## Software Engineer - Beverly, MA
 
@@ -19,3 +21,5 @@
 
 ## Resume
 <a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./Gerald.gif" height="325" width="450" align="center" style="border-radius:5%"></a>
+
+</div>
