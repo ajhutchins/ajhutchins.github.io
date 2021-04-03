@@ -1,6 +1,6 @@
 # Arthur 'A.J.' Hutchins
 
-<a href="url"><img src="https://github.com/ajhutchins/ajhutchins.github.io/blob/master/AJ_Headshot.jpg" height="auto" width="200" style="border-radius:50%"></a>
+![AJ_Headshot](https://user-images.githubusercontent.com/76659034/113482476-eb4cf480-946c-11eb-8bc5-aad14cba8543.jpg)
 
 ## Software Engineer
 #### Beverly, MA
