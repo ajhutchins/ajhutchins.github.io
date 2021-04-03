@@ -1,6 +1,6 @@
 # Arthur 'A.J.' Hutchins
 
-https://github.com/ajhutchins/ajhutchins.github.io/issues/1#issue-849676319
+![AJ_Headshot](https://user-images.githubusercontent.com/76659034/113482476-eb4cf480-946c-11eb-8bc5-aad14cba8543.jpg)
 
 ## Software Engineer
 #### Beverly, MA
