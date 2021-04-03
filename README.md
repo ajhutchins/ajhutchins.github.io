@@ -15,14 +15,17 @@
 <p align="center">
 <a href="https://github.com/ajhutchins/Jeopardy/blob/main/README.md"><img src="./Jeopardy_Screen_Shot.png" height="425" width="550" align="center" style="border-radius:5%"></a>
 </p>
+
 ### North Shore Beer Explorer:
 <p align="center">
 <a href="https://thawing-spire-75376.herokuapp.com/beer_explorer"><img src="./NS_Beer_Explorer.png" height="425" width="550" align="center" style="border-radius:5%"></a>
 </p>
+
 ### WAQ Vinyl:
 <p align="center">
 <a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="425" width="550" align="center" style="border-radius:5%"></a>
 </p>
+
 ## Resume
 <p align="center">
 <a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./Gerald.gif" height="325" width="450" align="center" style="border-radius:5%"></a>
