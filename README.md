@@ -1,3 +1,5 @@
+<p align="center">
+  
 # Arthur 'A.J.' Hutchins
 ## Software Engineer - Beverly, MA
 
@@ -12,3 +14,5 @@
 
 ### WAQ Vinyl:
 <a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="425" width="550" style="border-radius:5%"></a>
+
+</p>
