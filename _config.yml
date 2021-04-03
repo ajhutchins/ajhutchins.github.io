@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 title: Arthur 'A.J.' Hutchins
 subtitle: Software Engineer Portfolio
+
 minima:
   social_links:
     twitter: jekyllrb
