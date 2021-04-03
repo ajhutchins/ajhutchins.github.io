@@ -7,7 +7,7 @@
 
 
 #### Projects:
-1. ![Jeopardy_Screen_Shot](https://user-images.githubusercontent.com/76659034/113483120-ce65f080-946f-11eb-87ac-d32d0fcccbb3.png)
-2. 
-3. 
-4. 
+1. JEOPARDY: ![Jeopardy_Screen_Shot](https://user-images.githubusercontent.com/76659034/113483120-ce65f080-946f-11eb-87ac-d32d0fcccbb3.png)
+3. North Shore Beer Explorer: ![Screen Shot 2021-03-04 at 10 18 44 AM](https://user-images.githubusercontent.com/76659034/113483134-eb9abf00-946f-11eb-85a5-6cdc0907fcdb.png)
+4. WAQ Vinyl: 
+5. 
