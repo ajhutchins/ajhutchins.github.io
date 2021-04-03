@@ -12,5 +12,3 @@
 
 ### WAQ Vinyl:
 <a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="425" width="550" align="center" style="border-radius:5%"></a>
-
-</p>
