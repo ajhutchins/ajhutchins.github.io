@@ -1,7 +1,3 @@
-<h1 align="center">
-Arthur 'A.J.' Hutchins - Beverly, MA
-</h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./AJ_Headshot.jpg" height="auto" width="250" style="border-radius:15%"></a>
 </p>
