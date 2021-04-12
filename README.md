@@ -21,9 +21,9 @@ I am a creative-minded Software Engineer with a passion for using empirical data
 <h1 align="center" >
   <ins>Projects</ins>
 </h1>
-<p align="center">
+<h2 align="center">
 Below is a list of my projects, which help exemplify my knoowledge of a variety of languages, frameworks, and databases. Explore and enjoy!
-</p>
+</h2>
 <br />
 <h1 align="center">
 JEOPARDY
