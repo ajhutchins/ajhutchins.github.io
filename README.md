@@ -17,10 +17,14 @@ Arthur 'A.J.' Hutchins - Beverly, MA
 <h2 align="center">
 I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
 </h2>
-
+<br />
 <h1 align="center" >
   <ins>Projects</ins>
 </h1>
+<p align="center">
+Below is a list of my projects, which help exemplify my knoowledge of a variety of languages, frameworks, and databases. Explore and enjoy!
+</p>
+<br />
 <h1 align="center">
 JEOPARDY
 </h1>
@@ -33,7 +37,7 @@ My very first project - made using jQuery, CSS3 & HTML5 - completed in 1-week's 
 <h2 align="center">
 ^^^ CLICK to check out the JEOPARDY GitHub page! ^^^
 </h2>
-
+<br />
 <h1 align="center">
 North Shore Beer Explorer
 </h1>
@@ -46,7 +50,7 @@ My second project - made using JavaScript, CSS3 & HTML5, utilizing MongoDB, Mong
 <h2 align="center">
 ^^^ CLICK to check out the North Shore Beer Explorer! ^^^
 </h2>
-
+<br />
 <h1 align="center">
 WAQ Vinyl
 </h1>
@@ -59,7 +63,7 @@ My third project (and first group-project) - made using React, RESTful Routes, J
 <h2 align="center">
 ^^^ CLICK to check out WAQ Vinyl! ^^^
 </h2>
-
+<br />
 <h1 align="center">
 BehaviorBuddy
 </h1>
@@ -72,7 +76,7 @@ My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing 
 <h2 align="center">
 ^^^ CLICK to check out the BehaviorBuddy GitHub page! ^^^
 </h2>
-
+<br />
 <h2 align="center">
 Resume
 </h2>
