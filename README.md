@@ -12,11 +12,13 @@ Arthur 'A.J.' Hutchins - Beverly, MA
 </p>
 
 <h2 align="center">
-## Bio: I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
+Bio: I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
 </h2>
 
-# Projects:
-# JEOPARDY:
+<h2 align="center">
+Projects:
+JEOPARDY:
+</h2>
 ## My very first project - made using jQuery, CSS3 & HTML5 - completed in 1-week's time for General Assembly. This is an interactive JEOPARDY application game that users can clone and play on their devices locally. The game utilizes a scoring system and timers so that the user has a limited amount of time to complete as many questions as they can.
 <p align="center">
 <a href="https://github.com/ajhutchins/Jeopardy/blob/main/README.md"><img src="./Jeopardy_Screen_Shot.png" height="auto" width="525" align="center" style="border-radius:5%"></a>
