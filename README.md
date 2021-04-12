@@ -36,7 +36,7 @@
 ## BehaviorBuddy
 ### My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas - completed in 2-week's time for my final project at General Assembly. This is a mobile application that I am extremely passionate about. Originally intended for parents & teachers of children with special needs, this application contains a customized (and expanding) database of helpful information. Based mostly around Applied Behavior Analysis (ABA), the user can search a keyword/keywords that they are curious about (or just scroll through the databse to learn about different things). Results populate and provide a definition, methods/strategies, and resources.
 <p align="center">
-<a href="https://github.com/ajhutchins/Behavior_Buddy"><img src="./Screen%20Shot%202021-04-12%20at%2011.30.37%20AM.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
+<a href="https://github.com/ajhutchins/Behavior_Buddy"><img src="./Behavior_Buddy.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
 </p>
 ## ^^^ CLICK to check out the BehaviorBuddy GitHub page! ^^^
 
