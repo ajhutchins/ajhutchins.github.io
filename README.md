@@ -20,9 +20,9 @@ Beverly, Massachusetts-based Software Engineer who enjoys running, playing music
 Below is a list of my projects, which help exemplify my knowledge of a variety of languages, frameworks, and databases. Explore and enjoy!
 </h3>
 <br />
-<h1 align="center">
-<ins>JEOPARDY</ins>
-</h1>
+<h2 align="center">
+  <ins>JEOPARDY</ins>
+</h2>
 <h3 align="center">
 My very first project - made using jQuery, CSS3 & HTML5 - completed in 1-week's time for General Assembly. This is an interactive JEOPARDY application game that users can clone and play on their devices locally. The game utilizes a scoring system and timers so that the user has a limited amount of time to complete as many questions as they can.
 </h3>
@@ -33,9 +33,9 @@ My very first project - made using jQuery, CSS3 & HTML5 - completed in 1-week's 
 ^^^ CLICK to check out the JEOPARDY GitHub page! ^^^
 </h3>
 <br />
-<h1 align="center">
-<ins>North Shore Beer Explorer</ins>
-</h1>
+<h2 align="center">
+  <ins>North Shore Beer Explorer</ins>
+</h2>
 <h3 align="center">
 My second project - made using JavaScript, CSS3 & HTML5, utilizing MongoDB, Mongoose, ejs, express.js & methodOverride - completed in 1-week's time for General Assembly. This is an interactive application that is deployed on Heroku for anyone to benefit from. Originally intended for people visiting the 'North Shore' of Massachusetts (just North of Boston), this application has a list of local breweries and their corresponding towns/cities. When a brewery logo is clicked, the user is taken to a more detailed page specific to the selected brewery. This includes a few of the author's favorite beverages at the location, the hours, and the average untappd rating. The user is also able to edit & update each brewery as they see fit, add a new brewery, or delete them altogether.
 </h3>
@@ -46,9 +46,9 @@ My second project - made using JavaScript, CSS3 & HTML5, utilizing MongoDB, Mong
 ^^^ CLICK to check out the North Shore Beer Explorer! ^^^
 </h3>
 <br />
-<h1 align="center">
-<ins>WAQ Vinyl</ins>
-</h1>
+<h2 align="center">
+  <ins>WAQ Vinyl</ins>
+</h2>
 <h3 align="center">
 My third project (and first group-project) - made using React, RESTful Routes, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, bcrypt, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas, and the Discogs API - completed in 1-week's time for General Assembly. This is an application that allows the user to search for albums, add them to a list of owned records in their personal collection, and add to their wishlist. We use a simple crud application that searches the discog API based on the artist and/or album. The search feature returns up to 50 results per search.
 </h3>
@@ -59,9 +59,9 @@ My third project (and first group-project) - made using React, RESTful Routes, J
 ^^^ CLICK to check out WAQ Vinyl! ^^^
 </h3>
 <br />
-<h1 align="center">
-<ins>BehaviorBuddy</ins>
-</h1>
+<h2 align="center">
+  <ins>BehaviorBuddy</ins>
+</h2>
 <h3 align="center">
 My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas - completed in 2-week's time for my final project at General Assembly. This is a mobile application that I am extremely passionate about. Originally intended for parents & teachers of children with special needs, this application contains a customized (and expanding) database of helpful information. Based mostly around Applied Behavior Analysis (ABA), the user can search a keyword/keywords that they are curious about (or just scroll through the database to learn about different things). Results populate and provide a definition, methods/strategies, and resources.
 </h3>
@@ -73,7 +73,7 @@ My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing 
 </h3>
 <br />
 <h2 align="center">
-<ins>Resume</ins>
+  <ins>Resume</ins>
 </h2>
 <p align="center">
 <img src="./clickme.gif" height="45" width="auto">
