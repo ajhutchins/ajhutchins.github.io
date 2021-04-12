@@ -1,3 +1,8 @@
+---
+title: A.J. Hutchins
+subtitle: Software Engineer Portfolio 
+---
+
 <h1 align="center">
 Arthur 'A.J.' Hutchins - Beverly, MA
 </h1>
