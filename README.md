@@ -10,7 +10,7 @@ Arthur 'A.J.' Hutchins - Beverly, MA
 <a href="https://www.linkedin.com/in/a-j-hutchins-engineer/"><img src="./linkedin.png" height="50" width="auto" style="border-radius:15%"></a>
 <a href="mailto:aj.hutchins16@gmail.com"><img src="./gmail.png" height="50" width="auto" style="border-radius:15%"></a>
 </p>
-
+<br />
 <h1 align="center">
   <ins>Biography</ins>
 </h1>
