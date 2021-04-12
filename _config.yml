@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 title: A.J. Hutchins
-subtitle: Software Engineer Portfolio 
+description: Software Engineer Portfolio 
 minima:
   social_links:
     twitter: jekyllrb
