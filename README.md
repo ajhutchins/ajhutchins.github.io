@@ -54,7 +54,7 @@ WAQ Vinyl
 My third project (and first group-project) - made using React, RESTful Routes, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, bcrypt, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas - completed in 1-week's time for General Assembly. This is an application that allows the user to search for albums, add them to a list of owned records in their personal collection, and add to their wishlist. We use a simple crud application that searches the discog API based on the artist and/or album. The search feature returns up to 50 results per search.
 </h2>
 <p align="center">
-<a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="auto" width="475" align="center" style="border-radius:5%"></a>
+<a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
 </p>
 <h2 align="center">
 ^^^ CLICK to check out WAQ Vinyl! ^^^
@@ -67,7 +67,7 @@ BehaviorBuddy
 My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas - completed in 2-week's time for my final project at General Assembly. This is a mobile application that I am extremely passionate about. Originally intended for parents & teachers of children with special needs, this application contains a customized (and expanding) database of helpful information. Based mostly around Applied Behavior Analysis (ABA), the user can search a keyword/keywords that they are curious about (or just scroll through the databse to learn about different things). Results populate and provide a definition, methods/strategies, and resources.
 </h2>
 <p align="center">
-<a href="https://github.com/ajhutchins/Behavior_Buddy"><img src="./Behavior_Buddy.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
+<a href="https://github.com/ajhutchins/Behavior_Buddy"><img src="./Behavior_Buddy.png" height="auto" width="425" align="center" style="border-radius:5%"></a>
 </p>
 <h2 align="center">
 ^^^ CLICK to check out the BehaviorBuddy GitHub page! ^^^
