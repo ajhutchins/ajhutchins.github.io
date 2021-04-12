@@ -50,7 +50,7 @@ My second project - made using JavaScript, CSS3 & HTML5, utilizing MongoDB, Mong
 <ins>WAQ Vinyl</ins>
 </h1>
 <h2 align="center">
-My third project (and first group-project) - made using React, RESTful Routes, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, bcrypt, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas - completed in 1-week's time for General Assembly. This is an application that allows the user to search for albums, add them to a list of owned records in their personal collection, and add to their wishlist. We use a simple crud application that searches the discog API based on the artist and/or album. The search feature returns up to 50 results per search.
+My third project (and first group-project) - made using React, RESTful Routes, JavaScript, CSS3, HTML5, utilizing MongoDB, Mongoose, node.js, express.js, bcrypt, cors, dotenv, npm, bootstrap, Heroku, MongoDB Atlas, and the Discogs API - completed in 1-week's time for General Assembly. This is an application that allows the user to search for albums, add them to a list of owned records in their personal collection, and add to their wishlist. We use a simple crud application that searches the discog API based on the artist and/or album. The search feature returns up to 50 results per search.
 </h2>
 <p align="center">
 <a href="https://whispering-everglades-63027.herokuapp.com/"><img src="./WAQ_Vinyl.png" height="auto" width="550" align="center" style="border-radius:5%"></a>
