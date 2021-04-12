@@ -12,14 +12,14 @@ Arthur 'A.J.' Hutchins - Beverly, MA
 </p>
 
 <h1 align="center">
-Biography
+  <ins>Biography</ins>
 </h1>
 <h2 align="center">
 I am a creative-minded Software Engineer with a passion for using empirical data to drive my design and function. My Master’s Degree in Applied Behavior Analysis provides me with a unique behavioral approach that benefits a collaborative environment. I also utilize my background in Education & Financial Business Management to provide quality solutions that improve user functionalities and designs. In my free time, I enjoy playing in my band, golfing, and playing Ultimate (frisbee).
 </h2>
 
-<h1 align="center">
-Projects
+<h1 align="center" >
+  <ins>Projects</ins>
 </h1>
 <h1 align="center">
 JEOPARDY
