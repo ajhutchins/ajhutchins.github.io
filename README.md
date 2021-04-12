@@ -10,7 +10,7 @@
   <ins>Biography</ins>
 </h1>
 <h3 align="center">
-I am a Beverly, Massachusetts-based Software Engineer who enjoys running, music, golfing, and Ultimate (frisbee). A naturally creative and curious person, I have always been interested in finding ways to help and impacting others in a positive way. It is because of this that I began my career as an Educator, which allowed me to make a difference on a daily basis. As I looked for opportunities to make bigger impacts, I became a Manager who first focused on improving a residential facility for adults with severe special needs at Bridgewell Inc. and then helped manage the team and reshape the customer's experience of a multi-million dollar financial practice for Northwestern Mutual. Now, as a Software Engineer, I am excited for the endless opportunities to help make lasting positive impacts on many people's lives.
+I am a Beverly, Massachusetts-based Software Engineer who enjoys running, music, golfing, and Ultimate (frisbee). A naturally creative and curious person, I have always been interested in finding ways to help and impact others in a positive way. It is because of this that I began my career as an educator, which allowed me to make a difference on a daily basis. As I looked for opportunities to make bigger impacts, I became a manager who first focused on improving a residential facility for adults with severe special needs at Bridgewell Inc. and then helped manage the team and reshape the customer's experience of a multi-million dollar financial practice for Northwestern Mutual. Now, as a Software Engineer, I am excited for the endless opportunities to help make lasting positive impacts on many people's lives.
 </h3>
 <br />
 <h1 align="center" >
