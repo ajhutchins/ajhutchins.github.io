@@ -77,6 +77,6 @@ My fourth project - made using React Native, JavaScript, CSS3, HTML5, utilizing 
 </h1>
 <p align="center">
 <img src="./clickme.gif" height="45" width="auto">
-<a href="https://docs.google.com/document/d/1JdCxPp6XfGWnMLL4icAyQxp3IikHtgIBYteUyHrfM3I/edit?usp=sharing"><img src="./Winston.gif" height="auto" width="250" align="center" style="border-radius:5%"></a>
+<a href="https://docs.google.com/document/d/1G6V0xg2Rg9WiRaXUAR8UPcf8e_eKWCCUPcG2nMCu5Kw/edit?usp=sharing"><img src="./Winston.gif" height="auto" width="250" align="center" style="border-radius:5%"></a>
 </p>
 
