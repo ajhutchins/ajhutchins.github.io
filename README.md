@@ -10,14 +10,21 @@
   <ins>Biography</ins>
 </h1>
 <h3 align="center">
-I am a Beverly, Massachusetts-based Software Professional who enjoys running, music, and being a new(ish) dad. A naturally creative and curious person, I have always been interested in finding ways to help and impact others in a positive way. It is because of this that I began my career as an educator, which allowed me to make a difference on a daily basis. As I looked to expand my impact, I became a manager at a residential facility for adults with severe special needs at Bridgewell Inc., and then helped manage the team of a multi-million dollar financial practice at Northwestern Mutual. Now, I am communicating with hundreds of Software Engineers a year and working on projects of consequence with Atlantis Technology.
+I'm a Massachusetts-based Software Professional who enjoys running, music, and being a dad to a 1-year old girl. A naturally creative and curious person, I have always been interested in finding ways to impact others in a positive way. It is because of this that I began my career as an educator and special needs professional. I left the human services field to help manage the business operations of a multi-million dollar financial practice at Northwestern Mutual. Now, I am working in Developer Relations at Atlantis Technology, where I source, recruit, interview, and place Software Engineers on projects of consequence for various clients.
 </h3>
+<h4 align="center">
+<em>
+Currently Working On:
+- Harvard University: Computer Science for Web Programming (edX)
+- Codecademy: Full Stack Engineer (Career Path)
+</em>
+  </h4>
 <br />
 <h1 align="center" >
   <ins>Projects</ins>
 </h1>
 <h3 align="center">
-Below is a list of my projects, which help exemplify my knowledge of a variety of languages, frameworks, and databases. Explore and enjoy!
+Below is a list of my projects from my boot camp, which help exemplify my knowledge of a variety of languages, frameworks, and databases. Explore and enjoy!
 </h3>
 <br />
 <h2 align="center">
