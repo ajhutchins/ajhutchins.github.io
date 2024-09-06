@@ -15,7 +15,9 @@ I'm a Massachusetts-based Software Professional who enjoys running, music, and b
 <h4 align="center">
 <em>
 Currently Working On:
+  <br />
 - Harvard University: Computer Science for Web Programming (edX)
+  <br />
 - Codecademy: Full Stack Engineer (Career Path)
 </em>
   </h4>
